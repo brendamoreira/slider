@@ -1,6 +1,6 @@
 <template>
     <div>
-        
+        <img :src="photos[index]"/>
     </div>
 </template>
 <script>
