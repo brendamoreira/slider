@@ -39,7 +39,11 @@ export default {
 </script>
 
 <style>
+* {
+  box-sizing: border-box;
+}
 #app {
+  width: 1100px;
   text-align: center;
   margin-top: 60px;
   display: flex;
